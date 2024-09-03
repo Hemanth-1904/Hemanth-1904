@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋🏻 Hello!!
 🎓 Engineering in AI & Data Science at MSRIT <br>📚 Learning DSA and web development<br>🔧 Currently working on small projects<br>🚀 Seeking Internship Opportunities<br>📧 Contact me on GitHub or via hemmar1904@gmail.com
 
 
